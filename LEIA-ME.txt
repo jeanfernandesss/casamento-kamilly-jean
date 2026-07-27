@@ -1,0 +1,26 @@
+SITE DO CASAMENTO DE KAMILLY E JEAN
+
+INSTRUÇÕES PARA PUBLICAÇÃO
+
+1. Extraia o arquivo ZIP.
+2. Envie todo o conteúdo extraído para a pasta principal do domínio.
+   Essa pasta costuma se chamar public_html, www ou htdocs.
+3. O arquivo index.html deve ficar diretamente nessa pasta principal.
+4. Mantenha a pasta assets e os demais arquivos exatamente na mesma estrutura.
+5. Acesse o domínio e confirme se a página abriu normalmente.
+
+SOBRE A HOSPEDAGEM
+
+Este é um site estático e não exige banco de dados, PHP ou instalação.
+Ele funciona em qualquer hospedagem que aceite HTML, CSS e JavaScript.
+Recomendamos deixar o certificado HTTPS ativado.
+
+CONTEÚDO INCLUÍDO
+
+- Convite do casamento
+- Contagem regressiva para 14 de novembro de 2026, às 17h
+- Botão de confirmação de presença
+- Lista de presentes Havan
+- Lista de presentes Magazine Luiza
+- Opção de presente via Pix
+
